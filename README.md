@@ -2,7 +2,7 @@
   
 <h1>🤗 Hi, I'm <strong>Jiaqi Zhang (张家旗)</strong> 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=30&pause=1000&color=F791ED&background=FF3B9100&random=true&width=435&lines=Welcome+to+my+homepage+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Qwigley&size=50&letterSpacing=0.2rem&duration=6000&pause=2000&color=F45EF7&center=true&vCenter=true&width=500&height=70&lines=Welcome+To+My+Homepage+!)](https://git.io/typing-svg)
 
 ![Sengoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaqiZhang-Sengoku&show_icons=true&theme=vue-dark&show_owner=true)
 
