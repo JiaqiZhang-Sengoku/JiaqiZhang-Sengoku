@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sengokuuuu/Sengokuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengokuuuu&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sengokuuuu&repo=D4PGR)](https://github.com/Sengokuuuu/D4PGR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sengokuuuu&repo=HASTNet)](https://github.com/Sengokuuuu/HASTNet)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sengokuuuu&repo=MUANet)](https://github.com/Sengokuuuu/MUANet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sengokuuuu&repo=DDGF)](https://github.com/Sengokuuuu/DDGF)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sengokuuuu&repo=UJS-Smart-Car-Innovation-Club)](https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sengokuuuu&repo=Stick-Badminton)](https://github.com/Sengokuuuu/Stick-Badminton)
+
+</div>
