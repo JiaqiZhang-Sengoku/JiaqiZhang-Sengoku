@@ -7,13 +7,17 @@
 ![Sengoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaqiZhang-Sengoku&show_icons=true&theme=vue-dark&show_owner=true)
 
 </div>
+<!----------------------------------------------------------------------------------------------------------------------------------->
+<img src="https://raw.githubusercontent.com/mananbansal2002/mananbansal2002/refs/heads/main/images/linux_rounded.gif" width="80" height="80" />
 
 <!----------------------------------------------------------------------------------------------------------------------------------->
-# 🐍 Contribution Snake
+<h1>🐍 Contribution Snake </h1>
 
+<div align="center">
+  
 ![](https://raw.githubusercontent.com/JiaqiZhang-Sengoku/JiaqiZhang-Sengoku/refs/heads/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 
-
+</div>
 <!----------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
   
