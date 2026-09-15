@@ -1,4 +1,4 @@
-I am an undergraduate student from the School of Computer Science and Communication Engineering, Jiangsu University, majoring in Computer Science and Technology. 
+Hello, I'm Jiaqi Zhang. I am an undergraduate student from the School of Computer Science and Communication Engineering, Jiangsu University, majoring in Computer Science and Technology. 
 
 🔭 **Research Interests & Projects**
 
@@ -19,7 +19,7 @@ I am an undergraduate student from the School of Computer Science and Communicat
   - 📦 [Agent-Tracing-Survey](https://github.com/JiaqiZhang-Sengoku/Agent-Tracing-Survey)
   - 📦 [Multi-Agent-Memory-Survey](https://github.com/JiaqiZhang-Sengoku/Multi-Agent-Memory-Survey)
 
-- 🧠 Large Multimodal Models (LMMs)
+- 🧠 Multimodal Large Language Model​​ (MLLM)
   - 📦 None
 
 - 🌍 World Models
